@@ -1,0 +1,139 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "puzzle_grid.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "#Terrain (16x16)": {
+            "dynamicWrapping": false
+        },
+        "Level-01.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 251.5151515151515,
+                "y": 1159.090909090909
+            }
+        },
+        "Puzzle Cube.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Terrain (16x16).tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "background.tsx": {
+            "scaleInDock": 8,
+            "scaleInEditor": 1
+        },
+        "bg_colors.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "grid_view.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
+        },
+        "puzzle_cube.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 557.5757575757575,
+                "y": 1253.030303030303
+            }
+        },
+        "puzzle_cube.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "puzzle_cube2.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 484,
+                "y": 1994
+            }
+        },
+        "puzzle_cube3.tmx": {
+            "scale": 0.03125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2912,
+                "y": 9904
+            }
+        },
+        "puzzle_grid.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 952,
+                "y": 1796
+            }
+        },
+        "tetris_l_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tetris_l_right.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 424,
+                "y": 1534
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/user/Desktop/puzzle_cube/assets/images",
+    "map.height": 187,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 82,
+    "openFiles": [
+        "background.tsx",
+        "bg_colors.tsx",
+        "Terrain (16x16).tsx",
+        "puzzle_cube.tsx",
+        "tetris_l_left.tsx",
+        "tetris_l_right.tsx",
+        "puzzle_cube3.tmx",
+        "grid_view.tsx",
+        "grid_view.tsx",
+        "grid_view.tsx",
+        "puzzle_grid.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "background.tsx",
+        "bg_colors.tsx",
+        "Terrain (16x16).tsx",
+        "puzzle_cube.tsx",
+        "tetris_l_left.tsx",
+        "tetris_l_right.tsx",
+        "puzzle_cube3.tmx",
+        "grid_view.tsx",
+        "puzzle_grid.tmx",
+        "puzzle_cube2.tmx",
+        "puzzle_cube.tmx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
